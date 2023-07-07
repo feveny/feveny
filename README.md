@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**feveny/feveny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👋 Hi, I’m @feveny. I am a full-stack developer with a particular interest in making simple solutions for web-based problems. I try to keep up with security and best practices and am always looking for new things to learn.
+- 👀 I’m interested in Python, web programming 
+- 💞️ I’m looking to collaborate on web-based projects.
+- Feel free to collaborate, fork, or clone any of my projects. 
 
-Here are some ideas to get you started:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=feveny&show_icons=true&bg_color=00000000)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feveny&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+<!---
+feveny/feveny 
+--->
