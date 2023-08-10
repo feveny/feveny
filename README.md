@@ -1,5 +1,8 @@
 <div id="header" align="center">
-  <img src="https://media.tenor.com/5TwBRaAffCMAAAAd/intuit-giant-done-intuit-giant.gif" width="100"/>
+  <h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
   <div id="badges">
     <a href="https://www.linkedin.com/in/feven-yemane-942a55228/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -11,10 +14,7 @@
 
 ![](https://komarev.com/ghpvc/?username=feveny&color=blueviolet&style=for-the-badge)
 
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+
 </div>
 
 - 👋 Hi, I’m @feveny. I am a full-stack developer with a particular interest in making simple solutions for web-based problems. I try to keep up with security and best practices and am always looking for new things to learn.
