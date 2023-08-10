@@ -5,11 +5,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/feven207">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
-![](https://komarev.com/ghpvc/?username=Barissa-Imran&color=blueviolet&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=feveny&color=blueviolet&style=for-the-badge)
 
 <h1>
   hey there
